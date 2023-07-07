@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @SAGARPUJAR
+- 😍 Student at Chirst University
 - 👀 I'm currently working as ASP.NET MVC Developer with C#,HTML,CSS,JS,Jquery and WEB API Core
-- 🌱 I’m currently learning React Js and Node Js.
+- 🌱 I’m currently learning Angular.
 - 💞️ I’m looking to collaborate on Building scalable application and End to End Support.
 - 📫 How to reach me : 
           Mail : sagarpujar420@gmail.com
